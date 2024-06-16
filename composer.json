@@ -1,17 +1,22 @@
 {
-    "name": "mrfade/filament-editorjs",
+    "name": "abdelhamiderrahmouni/filament-editorjs",
     "description": "Next generation block styled editor.",
     "keywords": [
         "mrfade",
         "laravel",
         "filament-editorjs"
     ],
-    "homepage": "https://github.com/mrfade/filament-editorjs",
+    "homepage": "https://github.com/abdelhamiderrahmouni/filament-editorjs",
     "license": "MIT",
     "authors": [
         {
             "name": "Rahman Ramsi",
             "email": "rahmanramsi19@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Abdelhamid Errahmouni",
+            "email": "abdelhamiderrahmouni@gmail.com",
             "role": "Developer"
         }
     ],

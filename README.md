@@ -1,8 +1,8 @@
 # Filament EditorJs
 
 ![Filament EditorJs](art/banner.png)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mrfade/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/mrfade/filament-editorjs)
-[![Total Downloads](https://img.shields.io/packagist/dt/mrfade/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/mrfade/filament-editorjs)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/abdelhamiderrahmouni/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/abdelhamiderrahmouni/filament-editorjs)
+[![Total Downloads](https://img.shields.io/packagist/dt/abdelhamiderrahmouni/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/abdelhamiderrahmouni/filament-editorjs)
 
 [EditorJs](https://editorjs.io/) integration for Filament Admin/Forms.
 
@@ -11,7 +11,7 @@
 You can install the package via composer:
 
 ```bash
-composer require mrfade/filament-editorjs
+composer require abdelhamiderrahmouni/filament-editorjs
 ```
 
 ## Usage
